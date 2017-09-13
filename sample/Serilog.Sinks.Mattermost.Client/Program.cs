@@ -1,8 +1,9 @@
-﻿using System;
-
+﻿
 namespace Serilog.Sinks.Mattermost.Client
 {
-   class Program
+   using System;
+
+   static class Program
    {
       static void Main(string[] args)
       {
